@@ -9,9 +9,9 @@ See [instructions.md](instructions.md) for submission instructions.
 
 We were all excited to learn React by doing this mini tic tac toe game. To give you a little bit of context React is one of the leading JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React allows developers to create reusable UI components, which makes it easier to build complex and dynamic applications. It also uses a virtual DOM (Document Object Model) to optimize updates and improve performance. Another main advantage of React is that it is easier for testing and debugging components. 
 
-The main goal of this project was to identify the similar concepts that are used in both scala and react by implementing a fun game called Tic-tac-toe. We start the video off by explaining the concepts like callbacks, higher order functions and abstract syntax structure which are similar to the Scala language. We then go on to the tic tac toe code to see how these concepts are executed in react. During this demo the users can also see that it updates automatically through live streaming data. 
+The main goal of this project was to identify the similar concepts that are used in both scala and react by implementing a fun game called Tic-tac-toe. We start the video off by explaining the concepts like callbacks, higher order functions and abstract data type which are similar to the Scala language. We then go on to the tic tac toe code to see how these concepts are executed in react. During this demo the users can also see that it updates automatically through live streaming data. We go through the Board, App, Index and info javascript files. We also did a demo of the tic tac toe game where we played it and showed how it works in the code. 
 
-We continue to talk about the differences that we found in Scala and React. ??????
+We continue to talk about the differences that we found in Scala and React. For example, we talked about how Scala is a programming language. Whereas React is a library that is commonly used in Javascript and Typescript languages. It is mainly used for User Interface. Another one is about how Scala types its values at compile time whereas React types its values at runtime. Moreover, React is declarative meaning it describes the environment rather than implementing the backend.
 
 
 
