@@ -7,8 +7,6 @@ See [instructions.md](instructions.md) for submission instructions.
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
-
 We were all excited to learn React by doing this mini tic tac toe game. To give you a little bit of context React is one of the leading JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React allows developers to create reusable UI components, which makes it easier to build complex and dynamic applications. It also uses a virtual DOM (Document Object Model) to optimize updates and improve performance. Another main advantage of React is that it is easier for testing and debugging components. 
 
 The main goal of this project was to identify the similar concepts that are used in both scala and react by implementing a fun game called Tic-tac-toe. We start the video off by explaining the concepts like callbacks, higher order functions and abstract syntax structure which are similar to the Scala language. We then go on to the tic tac toe code to see how these concepts are executed in react. During this demo the users can also see that it updates automatically through live streaming data. 
@@ -18,8 +16,6 @@ We continue to talk about the differences that we found in Scala and React. ????
 
 
 ## Repository Organization
-
-TODO: Replace this with a description of the organization of your repository.
 
 In this repository, we created a folder called tic-tac-toe-react. We worked on this folder before adding it to the git repository that's why you can also see one git commit. But in this folder, you can navigate to src which has all the main files that we worked on. In this src folder, it is divided into javascript files and respective css files in the css folder. 
 
