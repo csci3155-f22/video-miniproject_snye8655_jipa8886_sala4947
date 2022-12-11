@@ -58,9 +58,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Presentation
 
-TODO: Update the following links and remove this line.
-
-- YouTube: https://youtu.be/TODO.
+- YouTube: https://youtu.be/qYwEnHkA6m8.
 - Script: [Script_TicTacToeMiniProject.pdf](Script_TicTacToeMiniProject.pdf).
-- Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [TicTacToeMiniProject.pdf](TicTacToeMiniProject.pdf) and slide sources (e.g., [TicTacToeMiniProject.pptx](TicTacToeMiniProject.pptx).
+- Recording: [video1805942069.mp4](recording.mp4).
+- Slides (if you use them in your recording): [TicTacToeMiniProject.pdf](TicTacToeMiniProject.pdf)
